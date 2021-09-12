@@ -1,2 +1,1 @@
-# Ahm-Password
-Password Challenge  
+# Password Generator Starter Code
