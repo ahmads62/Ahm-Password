@@ -35,8 +35,8 @@ SO THAT I can create a strong password that provides greater security
 Main Pages / Header / Body / Footer
 ![Main](./Develop/assets/pic/pic-main.jpg?raw=true "Main Pages / Header / Body / Footer")
 User Input
-![User-Input](./Develop/assets/pic/pic-1.jpg?raw=true "User Selection")
 ![User-Input](./Develop/assets/pic/pic-2.jpg?raw=true "User Selection")
+![User-Input](./Develop/assets/pic/pic-3.jpg?raw=true "User Selection")
 Generated Password
 ![User-Input](./Develop/assets/pic/pic-passwd.jpg?raw=true "Generated Password")
 
